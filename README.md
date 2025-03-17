@@ -11,9 +11,9 @@
 
 ## 📖 My Story
 
-Hi, I’m Srivatsa – a 3rd year CS undergrad.
-What started with curiosity about AI turned into an obsession with Machine Learning, Computer Vision, and building real-world solutions. Integrating AI brains into the fabric of the web. 💪
-
+Hello World, I’m Srivatsa – a 3rd year CS undergrad.
+What started with curiosity about AI turned into an obsession with Machine Learning, Computer Vision, and building real-world solutions. Integrating AI brains into the fabric of the web. 💪 Catch my unfiltered thoughts on [Medium](https://medium.com/@Vatsaboii) 🔍👨‍💻
+ 
 
 ## 🚀 Tech Stack
 
@@ -61,12 +61,37 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/TPOT-A020F0?style=for-the-badge&logo=python&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/NLTK-2C9AB7?style=for-the-badge&logo=python&logoColor=white" style="display:inline-block;"/>
-<img src="https://img.shields.io/badge/Gensim-FFB6C1?style=for-the-badge&logo=python&logoColor=white" style="display:inline-block;"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=OpenAI&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/LangChain-0FA36B?style=for-the-badge&logo=chainlink&logoColor=white" style="display:inline-block;"/>
-<img src="https://img.shields.io/badge/Anthropic-FFD43B?style=for-the-badge&logo=Anthropic&logoColor=black" style="display:inline-block;"/>
-<img src="https://img.shields.io/badge/Cohere-3D6BE5?style=for-the-badge&logo=cohere&logoColor=white" style="display:inline-block;"/>
 </p>
 
-## Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vatsaboii&label=Profile%20views&color=0e75b6&style=flat" alt="rrr" /> </p>
+## Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vatsaboii&show_icons=true&theme=tokyonight" alt="Vatsaboii's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsaboii&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsaboii&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsaboii&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+
+
+
+
+
+
+## Fun Fact
+
+> "Coding is like magic… one wrong spell and boom, your whole world is on fire."
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vatsaboii&label=Legends%20Passed%20By&color=0e75b6&style=flat" alt="Legends Passed By" />
+</p>
+
