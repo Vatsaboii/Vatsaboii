@@ -12,7 +12,7 @@
 ## 📖 My Story
 
 Hello World, I’m Srivatsa – a 3rd year CS undergrad.
-What started with curiosity about AI turned into an obsession with Machine Learning, Computer Vision, and building real-world solutions. Integrating AI brains into the fabric of the web. 💪 Catch my unfiltered thoughts on [Medium](https://medium.com/@Vatsaboii) 🔍👨‍💻
+What started with curiosity about AI turned into an obsession with Machine Learning, Computer Vision, and building real-world solutions. Integrating AI brains into the fabric of the web. 💪 Catch my unfiltered thoughts on [Medium](https://medium.com/@vatsaboii36) 🔍👨‍💻
  
 
 ## 🚀 Tech Stack
@@ -66,23 +66,24 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 
 ## Let's Connect & Build Cool Stuff Together 🚀
 
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/srivatsa-palepu/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/vatsaboi" target="_blank">
+  <a href="https://x.com/vatsaboi" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
   </a>
-  <a href="https://www.instagram.com/srivatsa_palepu/" target="_blank">
+  <a href="https://www.instagram.com/srivatsa_palepu/" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@vatsaboii36" target="_blank">
+  <a href="https://medium.com/@vatsaboii36" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="vatsaboii36@gmail.com" target="_blank">
+  <a href="mailto:vatsaboii36@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 
 
 ## Fun Fact
