@@ -67,3 +67,6 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 <img src="https://img.shields.io/badge/Anthropic-FFD43B?style=for-the-badge&logo=Anthropic&logoColor=black" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Cohere-3D6BE5?style=for-the-badge&logo=cohere&logoColor=white" style="display:inline-block;"/>
 </p>
+
+## Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vatsaboii&label=Profile%20views&color=0e75b6&style=flat" alt="rrr" /> </p>
