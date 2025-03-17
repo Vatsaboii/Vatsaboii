@@ -64,27 +64,25 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 <img src="https://img.shields.io/badge/LangChain-0FA36B?style=for-the-badge&logo=chainlink&logoColor=white" style="display:inline-block;"/>
 </p>
 
-## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsaboii&show_icons=true&theme=tokyonight" alt="Vatsaboii's GitHub stats"/>
-</p>
+## Let's Connect & Build Cool Stuff Together 🚀
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsaboii&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/vatsaboi" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://www.instagram.com/srivatsa_palepu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@vatsaboii36" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="vatsaboii36@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsaboii&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vatsaboii&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-
-
-
-
 
 
 ## Fun Fact
