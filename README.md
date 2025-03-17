@@ -18,7 +18,7 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 ## 🚀 Tech Stack
 
 ### Languages
-
+<p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="display:inline-block;"/>
@@ -27,10 +27,10 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="display:inline-block;"/>
-
+</p>
 
 ### Technologies
-
+<p>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="display:inline-block;"/>
@@ -44,9 +44,10 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="display:inline-block;"/>
+</p>
 
 ### Data Science and Artificial Intelligence
-
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="display:inline-block;"/>
@@ -65,3 +66,4 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 <img src="https://img.shields.io/badge/LangChain-0FA36B?style=for-the-badge&logo=chainlink&logoColor=white" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Anthropic-FFD43B?style=for-the-badge&logo=Anthropic&logoColor=black" style="display:inline-block;"/>
 <img src="https://img.shields.io/badge/Cohere-3D6BE5?style=for-the-badge&logo=cohere&logoColor=white" style="display:inline-block;"/>
+</p>
