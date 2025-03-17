@@ -66,7 +66,7 @@ What started with curiosity about AI turned into an obsession with Machine Learn
 
 ## Let's Connect & Build Cool Stuff Together 🚀
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
